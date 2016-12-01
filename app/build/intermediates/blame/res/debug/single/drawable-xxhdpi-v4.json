@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_right_normal.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_left_normal.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_left_disabled.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_left_disabled.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_left_pressed.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_left_pressed.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_right_disabled.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_right_disabled.png"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_right_pressed.png",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-xxhdpi/ic_arrow_right_pressed.png"
+    }
+]

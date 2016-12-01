@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/bg_btn_calendar_activated.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/bg_btn_calendar_activated.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/ic_arrow_right.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/ic_arrow_right.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/bg_calendar_stroke.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/bg_calendar_stroke.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/bg_btn_calendar_pressed.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/bg_btn_calendar_pressed.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/ic_arrow_left.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/ic_arrow_left.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/bg_btn_calendar.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable-nodpi/bg_btn_calendar.xml"
+    }
+]

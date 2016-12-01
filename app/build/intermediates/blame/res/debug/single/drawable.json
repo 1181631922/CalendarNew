@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_btn_calendar_today.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_btn_calendar_today.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_day_type_blue.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_day_type_blue.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_btn_calendar_today_selected.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_btn_calendar_today_selected.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_calendar_point_white.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_calendar_point_white.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_calendar_point_blue.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_calendar_point_blue.xml"
+    },
+    {
+        "merged": "/Users/fanyafeng/Downloads/CalendarNew1/app/build/intermediates/res/merged/debug/drawable/bg_day_type_red.xml",
+        "source": "/Users/fanyafeng/Downloads/CalendarNew1/app/src/main/res/drawable/bg_day_type_red.xml"
+    }
+]
